@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PuzzleGroupDemo</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="select_fragment_label">Select</string>
+    <string name="detail_fragment_label">Detail</string>
+
+    <string name="hello_puzzle_demo">Hello Puzzle Demo</string>
+
+    <string name="show">Show</string>
+</resources>
